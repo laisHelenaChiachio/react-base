@@ -1,0 +1,10 @@
+{
+  "name": "starter-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "laisHelenaChiachio <lalena.chiachio@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.6.3"
+  }
+}
